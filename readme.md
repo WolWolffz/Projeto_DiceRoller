@@ -1,4 +1,4 @@
-Criado em 01/2021
+Originalmente criado em 01/2021, commitado ao github em 03/2022
 
 Projeto simples que simula uma rolagem de dados virtuais com chance pseudo-randomica de cair em algum dos lados.
 
